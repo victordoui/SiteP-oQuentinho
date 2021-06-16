@@ -1,9 +1,3 @@
-/*begin-commonstyles library*//*!
- * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)
- * License https://froala.com/wysiwyg-editor/terms/
- * Copyright 2014-2020 Froala Labs
- */
-
 .fr-clearfix::after {
   clear: both;
   display: block;
@@ -362,13 +356,6 @@ span.fr-img-caption.fr-view {
       max-width: calc(100% - 5px); }
 /*end-commonstyles library*//*begin-commonstyles library*/@charset "UTF-8";
 
-/*!
- * animate.css -https://daneden.github.io/animate.css/
- * Version - 3.7.2
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2019 Daniel Eden
- */
 
 @-webkit-keyframes bounce {
   from,
@@ -474,7 +461,6 @@ span.fr-img-caption.fr-view {
   animation-name: flash;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @-webkit-keyframes pulse {
   from {
@@ -852,7 +838,6 @@ span.fr-img-caption.fr-view {
   animation-name: tada;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @-webkit-keyframes wobble {
   from {
@@ -3210,7 +3195,7 @@ span.fr-img-caption.fr-view {
   animation-name: jackInTheBox;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes rollIn {
   from {
@@ -3245,7 +3230,6 @@ span.fr-img-caption.fr-view {
   animation-name: rollIn;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @-webkit-keyframes rollOut {
   from {
@@ -3985,7 +3969,7 @@ span.fr-img-caption.fr-view {
     animation-iteration-count: 1 !important;
   }
 }
-/*end-commonstyles library*//*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -4171,20 +4155,6 @@ ul,
 ol {
   padding-left: 20px;
 }
-/* Fade effect */
-/* Over effect */
-/* Slide effect */
-/* Over and Slide effect */
-/* Flip Left effect */
-/* Flip Right effect */
-/* Flip Top effect */
-/* Flip Bottom effect */
-/* Wobble Left effect */
-/* Wobble Right effect */
-/* Wobble top effect */
-/* Wobble bottom effect */
-/* Zoom and Rotate Effects */
-/* Utility */
 .u-over-slide {
   position: absolute;
   left: 0;
